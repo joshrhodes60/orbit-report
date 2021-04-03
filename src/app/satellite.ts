@@ -1,4 +1,4 @@
-import { type } from "node:os";
+// import { type } from "node:os";
 
 export class Satellite {
     name: string;
